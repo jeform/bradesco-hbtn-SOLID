@@ -5,13 +5,6 @@ public class Comments {
         return;
     }
 
-    /**
-     * <p> este método publica resultados com base na data
-     * </p>
-     * @param data data a partir da qual os resultados devem ser publicados
-     * @retornar Lista de entidades de resultado
-     * @desde 16.0
-     */
     public List<Result> publishResults(Date date) {
         // alguma lógica de negócios aqui
     }
