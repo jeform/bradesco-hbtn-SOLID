@@ -1,5 +1,6 @@
 public class Comments {
 
+    // TODO Este método deve ser removido
     public void check(){
         return;
     }
